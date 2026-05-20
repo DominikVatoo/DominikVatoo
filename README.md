@@ -44,19 +44,19 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DominikVatoo/DominikVatoo/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DominikVatoo/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DominikVatoo.DominikVatoo&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DominikVatoo&"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DominikVatoo/DominikVatoo/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/DominikVatoo/DominikVatoo/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/DominikVatoo/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/DominikVatoo/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
