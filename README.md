@@ -42,21 +42,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/DominikVatoo/snake-output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DominikVatoo&"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DominikVatoo/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/DominikVatoo/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
