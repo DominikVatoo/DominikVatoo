@@ -12,9 +12,3 @@
 
 ---
 
-### 📈 System Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DominikVatoo&show_icons=true&theme=cyberpunk&hide_border=true&title_color=00F0FF&icon_color=00F0FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominikVatoo&layout=compact&theme=cyberpunk&hide_border=true" width="48%" />
-</p>
