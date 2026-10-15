@@ -1,46 +1,20 @@
-<h3 align="left">Hey 👋</h3>
+# ⚡ DominikVatoo
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&width=435&lines=Backend+Developer;Security+Enthusiast;Building+Robust+Systems" alt="Typing SVG" />
+</p>
 
-<h6 align="left">Hey, I'm Dominik ✌️ I'm a Full-Stack Developer from Germany. I spent years building heavy-duty backend logic, but right now, I’m fully focused on the frontend—specifically building high-end interfaces that don't just look good, but actually perform.</h6>
+### 🛠️ Tech Stack
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,java,ts,docker,linux,git,bash&theme=dark" />
+</p>
 
-<h2 align="left">25 Years Old</h2>
+---
 
-###
+### 📈 System Metrics
 
-<p align="left">Backend Developer with strong optimization and security skills</p>
-
-###
-
-<h2 align="left">Love Coding with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="40" alt="opera logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-</div>
-
-
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DominikVatoo&show_icons=true&theme=cyberpunk&hide_border=true&title_color=00F0FF&icon_color=00F0FF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DominikVatoo&theme=cyberpunk&hide_border=true&background=121019&ring=00F0FF&fire=00F0FF" width="48%" />
+</p>
